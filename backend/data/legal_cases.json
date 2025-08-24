@@ -1,0 +1,87 @@
+[
+  {
+    "id": "C-001",
+    "title": "Smith v. Talking Pets",
+    "year": 1994,
+    "jurisdiction": "US",
+    "case_type": "defamation",
+    "key_legal_principles": [
+      "libel",
+      "publication",
+      "mens rea"
+    ],
+    "parties": "individual vs. pet store",
+    "outcome": "dismissed",
+    "summary": "Court held animals cannot form intent; defamation requires a human publisher."
+  },
+  {
+    "id": "C-002",
+    "title": "Green v. Smart Fridge Co.",
+    "year": 2020,
+    "jurisdiction": "US",
+    "case_type": "privacy",
+    "key_legal_principles": [
+      "expectation of privacy",
+      "consent"
+    ],
+    "parties": "individual vs. corporation",
+    "outcome": "settled",
+    "summary": "Device recorded conversations without explicit consent; settlement favored consumer."
+  },
+  {
+    "id": "C-003",
+    "title": "Royal Gardens v. Drone Deliveries",
+    "year": 2018,
+    "jurisdiction": "UK",
+    "case_type": "property",
+    "key_legal_principles": [
+      "trespass",
+      "nuisance"
+    ],
+    "parties": "corporation vs. corporation",
+    "outcome": "injunction",
+    "summary": "Low-flying drones constituted nuisance; injunction granted."
+  },
+  {
+    "id": "C-004",
+    "title": "People v. Autonomous Taxi",
+    "year": 2022,
+    "jurisdiction": "US",
+    "case_type": "criminal",
+    "key_legal_principles": [
+      "mens rea",
+      "strict liability"
+    ],
+    "parties": "state vs. corporation",
+    "outcome": "acquittal",
+    "summary": "No mens rea; liability shifted to operator under regulatory regime."
+  },
+  {
+    "id": "C-005",
+    "title": "Chef v. Food Blogger",
+    "year": 2015,
+    "jurisdiction": "EU",
+    "case_type": "defamation",
+    "key_legal_principles": [
+      "opinion vs. fact",
+      "public interest"
+    ],
+    "parties": "individual vs. individual",
+    "outcome": "dismissed",
+    "summary": "Blog review protected as opinion; not actionable as libel."
+  },
+  {
+    "id": "C-006",
+    "title": "City v. Parkour Group",
+    "year": 2017,
+    "jurisdiction": "US",
+    "case_type": "public safety",
+    "key_legal_principles": [
+      "time place manner",
+      "public nuisance"
+    ],
+    "parties": "municipality vs. group",
+    "outcome": "fines",
+    "summary": "Fines for repeated unsafe rooftop stunts; regulations upheld."
+  }
+]
