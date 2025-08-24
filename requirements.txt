@@ -1,7 +1,7 @@
-fastapi==0.111.0      # Web framework for backend API
-uvicorn[standard]==0.30.1  # ASGI server to run FastAPI
-pydantic==2.7.3       # Data validation (models/schemas)
-numpy==1.26.4         # For vector ops (planned in utils)
-scikit-learn==1.4.2   # For TF-IDF and cosine sim (planned)
-sentence-transformers==3.0.1  # For semantic embeddings (future)
-python-dotenv==1.0.1  # Config via .env if needed later
+fastapi                    # Web framework for backend API
+uvicorn                    # ASGI server to run FastAPI
+pydantic                   # Data validation (models/schemas)
+numpy                      # For vector ops (planned in utils)
+scikit-learn               # For TF-IDF and cosine sim (planned)
+sentence-transformers      # For semantic embeddings (future)
+python-dotenv              # Config via .env if needed later
